@@ -1,6 +1,7 @@
 {
   "name": "getsolaris/laravel-tosspayments",
   "description": "A Laravel package to Toss Payments",
+  "version": "1.3.2",
   "keywords": [
     "getsolaris",
     "laravel",
