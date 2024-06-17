@@ -1,5 +1,5 @@
 {
-  "name": "getsolaris/laravel-tosspayments",
+  "name": "nest-soft/laravel-tosspayments",
   "description": "A Laravel package to Toss Payments",
   "version": "1.3.2",
   "keywords": [
@@ -8,7 +8,7 @@
     "toss",
     "tosspayments"
   ],
-  "homepage": "https://github.com/getsolaris/laravel-toss-payments",
+  "homepage": "https://github.com/nest-soft/laravel-toss-payments",
   "license": "MIT",
   "authors": [
     {
@@ -17,8 +17,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/getsolaris/laravel-toss-payments/issues",
-    "source": "https://github.com/getsolaris/laravel-toss-payments"
+    "issues": "https://github.com/nest-soft/laravel-toss-payments/issues",
+    "source": "https://github.com/nest-soft/laravel-toss-payments"
   },
   "require": {
     "php": "^8.0",
